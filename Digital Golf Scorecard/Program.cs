@@ -1,3 +1,6 @@
+using System;
+using System.Data.SqlClient;
+
 namespace Digital_Golf_Scorecard
 {
     internal static class Program
